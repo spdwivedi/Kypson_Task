@@ -1,0 +1,42 @@
+{"text": "bopp bags chahiye 40 hazaar, 65 gsm, Nagpur", "expected": {"category": "bopp_bag", "quantity": 40000, "unit": "pcs", "gsm": 65, "micron": null, "location": "Nagpur"}}
+{"text": "jumbo bag 1000 kg capacity, 500 pcs, Vadodara", "expected": {"category": "fibc", "quantity": 500, "unit": "pcs", "gsm": null, "micron": null, "location": "Vadodara"}}
+{"text": "need quote for 500 kg shrink wrap 25 mic", "expected": {"category": "film", "quantity": 500, "unit": "kg", "gsm": null, "micron": 25, "location": null}}
+{"text": "urgent 2.5 lac bopp printed bags 70 gsm deliver to Ahmedabad", "expected": {"category": "bopp_bag", "quantity": 250000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Ahmedabad"}}
+{"text": "15K cement bags pp woven sack required in Jaipur", "expected": {"category": "woven_sack", "quantity": 15000, "unit": "pcs", "gsm": null, "micron": null, "location": "Jaipur"}}
+{"text": "need 1,50,000 corrugated boxes 3 ply for Mumbai warehouse", "expected": {"category": "corrugated_box", "quantity": 150000, "unit": "pcs", "gsm": null, "micron": null, "location": "Mumbai"}}
+{"text": "stand up zipper pouch 50000 pcs with 80 micron thickness, Delhi", "expected": {"category": "pouch", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": 80, "location": "Delhi"}}
+{"text": "stretch film roll 2 ton 23 mic needed for Pune plant", "expected": {"category": "film", "quantity": 2, "unit": "mt", "gsm": null, "micron": 23, "location": "Pune"}}
+{"text": "mono carton box 300 gsm 20k pieces for pharma Indore", "expected": {"category": "mono_carton", "quantity": 20000, "unit": "pcs", "gsm": 300, "micron": null, "location": "Indore"}}
+{"text": "fibc bulk bags 500 pcs 150 gsm to Surat", "expected": {"category": "fibc", "quantity": 500, "unit": "pcs", "gsm": 150, "micron": null, "location": "Surat"}}
+{"text": "25 kg capacity bopp laminated woven bags 10000 pcs Kanpur", "expected": {"category": "bopp_bag", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": null, "location": "Kanpur"}}
+{"text": "50 kg cement ad star bags chahiye 20 hazaar, Lucknow", "expected": {"category": "woven_sack", "quantity": 20000, "unit": "pcs", "gsm": null, "micron": null, "location": "Lucknow"}}
+{"text": "corrugated carton 10000 pcs 150 gsm Morbi", "expected": {"category": "corrugated_box", "quantity": 10000, "unit": "pcs", "gsm": 150, "micron": null, "location": "Morbi"}}
+{"text": "spout pouches 75 micron 30k pcs Rajkot", "expected": {"category": "pouch", "quantity": 30000, "unit": "pcs", "gsm": null, "micron": 75, "location": "Rajkot"}}
+{"text": "ldpe shrink film 40 mic 500 kg dispatch to Kolkata", "expected": {"category": "film", "quantity": 500, "unit": "kg", "gsm": null, "micron": 40, "location": "Kolkata"}}
+{"text": "mono carton with embossing 350 gsm 5000 nos Bengaluru", "expected": {"category": "mono_carton", "quantity": 5000, "unit": "pcs", "gsm": 350, "micron": null, "location": "Bengaluru"}}
+{"text": "jumbo bags 1.5 ton capacity 200 pcs 180 gsm Hyderabad", "expected": {"category": "fibc", "quantity": 200, "unit": "pcs", "gsm": 180, "micron": null, "location": "Hyderabad"}}
+{"text": "bop bag 50 hazaar pcs 60 gsm deliver at Chennai", "expected": {"category": "bopp_bag", "quantity": 50000, "unit": "pcs", "gsm": 60, "micron": null, "location": "Chennai"}}
+{"text": "hdpe woven sacks 80 gsm 1 lakh pieces Bhopal", "expected": {"category": "woven_sack", "quantity": 100000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Bhopal"}}
+{"text": "plain box 500 pcs urgent Nashik", "expected": {"category": "corrugated_box", "quantity": 500, "unit": "pcs", "gsm": null, "micron": null, "location": "Nashik"}}
+{"text": "printed pouch 12 mic pet 50000 pcs Faridabad", "expected": {"category": "pouch", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": 12, "location": "Faridabad"}}
+{"text": "stretch wrap film 50 rolls 500 kg Ghaziabad", "expected": {"category": "film", "quantity": 500, "unit": "kg", "gsm": null, "micron": null, "location": "Ghaziabad"}}
+{"text": "mono cartons 10k pcs for cosmetic packaging Gurgaon", "expected": {"category": "mono_carton", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": null, "location": "Gurgaon"}}
+{"text": "fibc circular loops 1000 pcs 160 gsm Noida", "expected": {"category": "fibc", "quantity": 1000, "unit": "pcs", "gsm": 160, "micron": null, "location": "Noida"}}
+{"text": "bopp woven bag 25000 pcs 75 gsm Coimbatore", "expected": {"category": "bopp_bag", "quantity": 25000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Coimbatore"}}
+{"text": "pp woven bags 50kg bag 40000 pcs Patna", "expected": {"category": "woven_sack", "quantity": 40000, "unit": "pcs", "gsm": null, "micron": null, "location": "Patna"}}
+{"text": "corugated boxes 7 ply 2000 pcs Ludhiana", "expected": {"category": "corrugated_box", "quantity": 2000, "unit": "pcs", "gsm": null, "micron": null, "location": "Ludhiana"}}
+{"text": "retort pouch 100 micron 10k pcs Mumbai", "expected": {"category": "pouch", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": 100, "location": "Mumbai"}}
+{"text": "bopp thermal lamination film 15 micron 300 kg Delhi", "expected": {"category": "film", "quantity": 300, "unit": "kg", "gsm": null, "micron": 15, "location": "Delhi"}}
+{"text": "mono carton duplex board 280 gsm 15000 pcs Ahmedabad", "expected": {"category": "mono_carton", "quantity": 15000, "unit": "pcs", "gsm": 280, "micron": null, "location": "Ahmedabad"}}
+{"text": "bulk bag u-panel 500 pcs 200 gsm Nagpur", "expected": {"category": "fibc", "quantity": 500, "unit": "pcs", "gsm": 200, "micron": null, "location": "Nagpur"}}
+{"text": "need 10 mt stretch film 29 micron for export to Dubai", "expected": {"category": "film", "quantity": 10, "unit": "mt", "gsm": null, "micron": 29, "location": "Dubai"}}
+{"text": "ad star cement sacks 50000 pcs 70 gsm Raipur", "expected": {"category": "woven_sack", "quantity": 50000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Raipur"}}
+{"text": "corrugated shipping cartons 5000 pcs", "expected": {"category": "corrugated_box", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": null, "location": null}}
+{"text": "zipper pouch 120 mic 5000 pcs", "expected": {"category": "pouch", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": 120, "location": null}}
+{"text": "shrink wrap 500 kg 30 micron", "expected": {"category": "film", "quantity": 500, "unit": "kg", "gsm": null, "micron": 30, "location": null}}
+{"text": "bhaiya 40k bopp bags 65 gsm bhejna", "expected": {"category": "bopp_bag", "quantity": 40000, "unit": "pcs", "gsm": 65, "micron": null, "location": null}}
+{"text": "jumbo bag 200 pcs 140 gsm deliver Jabalpur", "expected": {"category": "fibc", "quantity": 200, "unit": "pcs", "gsm": 140, "micron": null, "location": "Jabalpur"}}
+{"text": "mono cartons 250 gsm 18000 pcs for Varanasi", "expected": {"category": "mono_carton", "quantity": 18000, "unit": "pcs", "gsm": 250, "micron": null, "location": "Varanasi"}}
+{"text": "cement bags 25000 pcs Gwalior", "expected": {"category": "woven_sack", "quantity": 25000, "unit": "pcs", "gsm": null, "micron": null, "location": "Gwalior"}}
+{"text": "heavy duty corrugated box 1200 pcs 220 gsm Agra", "expected": {"category": "corrugated_box", "quantity": 1200, "unit": "pcs", "gsm": 220, "micron": null, "location": "Agra"}}
+{"text": "silver aluminium pouch 70 mic 15k pcs Chandigarh", "expected": {"category": "pouch", "quantity": 15000, "unit": "pcs", "gsm": null, "micron": 70, "location": "Chandigarh"}}
